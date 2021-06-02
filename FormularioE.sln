@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Directorio-Entidades", "Directorio-Entidades\Directorio-Entidades.csproj", "{5D854162-EE1D-426E-A99D-2B8BCDEF9A41}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Directorio-Logica", "Directorio-Logica\Directorio-Logica.csproj", "{55D4D284-1233-4F84-B292-F68391296DB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Directorio-Presentacion", "FormularioEntregas\Directorio-Presentacion.csproj", "{9E0D479A-F146-496A-9D05-22C0B1611EDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Directorio-Datos", "Directorio-Datos\Directorio-Datos.csproj", "{D55DF804-D043-433A-AABC-DC4C42AFB50F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Imagenes", "Imagenes", "{A099065C-3344-4DF5-9C95-CFC2805EE2A5}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Blanco.jpeg = ..\..\Blanco.jpeg
+		..\..\Gender_Neutral_User_icon-icons.com_55902.png = ..\..\Gender_Neutral_User_icon-icons.com_55902.png
+		..\..\lock_padlock_security_icon_131521.png = ..\..\lock_padlock_security_icon_131521.png
+		..\..\Logo.png = ..\..\Logo.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D854162-EE1D-426E-A99D-2B8BCDEF9A41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D854162-EE1D-426E-A99D-2B8BCDEF9A41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D854162-EE1D-426E-A99D-2B8BCDEF9A41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D854162-EE1D-426E-A99D-2B8BCDEF9A41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55D4D284-1233-4F84-B292-F68391296DB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55D4D284-1233-4F84-B292-F68391296DB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55D4D284-1233-4F84-B292-F68391296DB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55D4D284-1233-4F84-B292-F68391296DB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E0D479A-F146-496A-9D05-22C0B1611EDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E0D479A-F146-496A-9D05-22C0B1611EDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E0D479A-F146-496A-9D05-22C0B1611EDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E0D479A-F146-496A-9D05-22C0B1611EDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D55DF804-D043-433A-AABC-DC4C42AFB50F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D55DF804-D043-433A-AABC-DC4C42AFB50F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D55DF804-D043-433A-AABC-DC4C42AFB50F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D55DF804-D043-433A-AABC-DC4C42AFB50F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {219D9C78-996B-4D78-88A5-1E91BD0BFE43}
+	EndGlobalSection
+EndGlobal
